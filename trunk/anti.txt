@@ -26,6 +26,8 @@
 127.0.0.1 www.truyenhay.com
 127.0.0.1 auto.congdonggame.net
 127.0.0.1 auto.congdonggame.com
-127.0.0.1 auto.congdonggame.org/
+127.0.0.1 auto.congdonggame.org
 127.0.0.1 auto.giangho.net
 127.0.0.1 auto.hotrogame.net
+127.0.0.1 plus.hotrogame.net
+127.0.0.1 active.hotrogame.net
