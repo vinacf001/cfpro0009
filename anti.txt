@@ -24,3 +24,6 @@
 127.0.0.1 www.hotrogame.net
 127.0.0.1 www.langphim.com
 127.0.0.1 www.truyenhay.com
+127.0.0.1 auto.congdonggame.net
+127.0.0.1 auto.congdonggame.com
+127.0.0.1 auto.giangho.net
