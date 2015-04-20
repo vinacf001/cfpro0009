@@ -28,3 +28,4 @@
 127.0.0.1 auto.congdonggame.com
 127.0.0.1 auto.congdonggame.org/
 127.0.0.1 auto.giangho.net
+127.0.0.1 auto.hotrogame.net
