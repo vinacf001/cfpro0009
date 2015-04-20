@@ -10,6 +10,7 @@ giangho.net 127.0.0.1
 lienminhvietnam.net 127.0.0.1
 hotrogame.net 127.0.0.1
 langphim.com 127.0.0.1
+truyenhay.com 127.0.0.1
 www.congdonggame.net 127.0.0.1
 www.congdonggame.com 127.0.0.1
 www.autogame.biz 127.0.0.1
@@ -22,3 +23,4 @@ www.giangho.net 127.0.0.1
 www.lienminhvietnam.net 127.0.0.1
 www.hotrogame.net 127.0.0.1
 www.langphim.com 127.0.0.1
+www.truyenhay.com 127.0.0.1
